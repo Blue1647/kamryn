@@ -1,0 +1,35 @@
+/* Put in your css here */
+p {
+    color:blue;
+}
+h1{color:red;
+    font-family:verdana;
+    font-size:50px;}
+
+ body{
+    background:black;
+    font-family:verdana;}
+
+li{
+    display:inline;
+    padding:10px 10px 10px 10px;}
+    
+ul{
+  background:rgba(0,0,0,.4);
+}
+header{
+  text-align:center;
+  background:url("http://downloadtopaz.com/wp-content/uploads/2015/10/Awesome-Desktop-Backgrounds-10C.jpg");
+  background-size:cover;
+  color:li;
+}
+a{ color:beige;
+}
+a:hover{
+  color:maroon;
+  background:lavender;
+}
+body{
+  text-align:center;
+}
+    
